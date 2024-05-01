@@ -1,1 +1,1 @@
-##QT version: 4.11.1
+## QT version: 4.11.1
