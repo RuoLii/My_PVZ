@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Day</class>
+ <widget class="QWidget" name="Day">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>800</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>800</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>植物大战僵尸mini</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>:/new/prefix1/imag/wtitle.png</normaloff>:/new/prefix1/imag/wtitle.png</iconset>
+  </property>
+  <widget class="QLabel" name="plant3">
+   <property name="geometry">
+    <rect>
+     <x>189</x>
+     <y>8</y>
+     <width>51</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="plant1">
+   <property name="geometry">
+    <rect>
+     <x>81</x>
+     <y>8</y>
+     <width>51</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Plant">
+   <property name="geometry">
+    <rect>
+     <x>271</x>
+     <y>198</y>
+     <width>331</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>:/new/prefix1/imag/StartPlant.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="plant2">
+   <property name="geometry">
+    <rect>
+     <x>135</x>
+     <y>8</y>
+     <width>51</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="plant4">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>8</y>
+     <width>51</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="background">
+   <property name="geometry">
+    <rect>
+     <x>-509</x>
+     <y>-2</y>
+     <width>1311</width>
+     <height>601</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>1311</width>
+     <height>601</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>1311</width>
+     <height>601</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>:/new/prefix1/imag/background3.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="ready">
+   <property name="geometry">
+    <rect>
+     <x>281</x>
+     <y>208</y>
+     <width>351</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>:/new/prefix1/imag/StartReady.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="sunbank_label">
+   <property name="geometry">
+    <rect>
+     <x>4</x>
+     <y>55</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Consolas</family>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt; font-weight:600; color:#030408;&quot;&gt;50&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="plant5">
+   <property name="geometry">
+    <rect>
+     <x>297</x>
+     <y>8</y>
+     <width>51</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="set">
+   <property name="geometry">
+    <rect>
+     <x>261</x>
+     <y>178</y>
+     <width>291</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>:/new/prefix1/imag/StartSet.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>-8</y>
+     <width>361</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>:/new/prefix1/imag/SeedBank_5.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>0</y>
+     <width>71</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>:/new/prefix1/imag/ShovelBank.png</pixmap>
+   </property>
+  </widget>
+  <zorder>background</zorder>
+  <zorder>label_2</zorder>
+  <zorder>plant3</zorder>
+  <zorder>plant1</zorder>
+  <zorder>Plant</zorder>
+  <zorder>plant2</zorder>
+  <zorder>plant4</zorder>
+  <zorder>ready</zorder>
+  <zorder>sunbank_label</zorder>
+  <zorder>plant5</zorder>
+  <zorder>set</zorder>
+  <zorder>label</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
